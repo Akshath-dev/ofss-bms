@@ -8,7 +8,7 @@ public class OfssBmsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OfssBmsApplication.class, args);
-		System.out.println("HELLO BROOO!!!!!");
+		System.out.println("This is Akshath here!!!!");
 	}
 
 }
