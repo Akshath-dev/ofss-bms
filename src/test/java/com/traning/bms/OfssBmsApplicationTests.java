@@ -10,7 +10,7 @@ class OfssBmsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(190,394);
+		assertEquals(190,200);
 	}
 
 }
